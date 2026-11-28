@@ -1,0 +1,255 @@
+1
+00:00:00,350 --> 00:00:03,973
+Hi everyone, and welcome back to Bitcoin Daily by SWC!
+
+2
+00:00:04,293 --> 00:00:06,227
+It's been a rougher day for Bitcoin.
+
+3
+00:00:06,547 --> 00:00:08,329
+It's down almost 3%,
+
+4
+00:00:08,469 --> 00:00:11,671
+and sitting just under $60,000 after a sharp drop
+
+5
+00:00:11,811 --> 00:00:13,195
+yesterday afternoon.
+
+6
+00:00:13,515 --> 00:00:15,393
+So can it win that level back?
+
+7
+00:00:15,713 --> 00:00:18,758
+Let's take a look, for Saturday 28 November.
+
+8
+00:00:20,083 --> 00:00:22,174
+So, over the last 24 hours,
+
+9
+00:00:22,314 --> 00:00:25,570
+Bitcoin touched a high of $62,250,
+
+10
+00:00:25,710 --> 00:00:29,287
+then dropped to a low of about $58,650.
+
+11
+00:00:29,607 --> 00:00:32,465
+Right now it's around $59,900.
+
+12
+00:00:32,785 --> 00:00:33,845
+And look at this.
+
+13
+00:00:34,165 --> 00:00:35,270
+Since that drop,
+
+14
+00:00:35,410 --> 00:00:38,926
+there hasn't been a single hourly close above $60,200.
+
+15
+00:00:39,246 --> 00:00:41,488
+So $60,000 is now the ceiling.
+
+16
+00:00:42,817 --> 00:00:44,208
+Now, quick refresher.
+
+17
+00:00:44,528 --> 00:00:46,575
+Two markets move Bitcoin's price.
+
+18
+00:00:46,895 --> 00:00:49,830
+Spot, which is people buying real coins, and futures,
+
+19
+00:00:49,970 --> 00:00:51,480
+which are leveraged bets.
+
+20
+00:00:51,800 --> 00:00:54,285
+Spot has been only slightly on the sell side,
+
+21
+00:00:54,425 --> 00:00:57,048
+about $38 million net over the day.
+
+22
+00:00:57,368 --> 00:00:59,045
+Futures did the heavy lifting,
+
+23
+00:00:59,185 --> 00:01:01,322
+with selling on every bigger timeframe,
+
+24
+00:01:01,462 --> 00:01:04,773
+close to $1 billion net sold over 24 hours.
+
+25
+00:01:05,093 --> 00:01:08,400
+And remember, spot is only about 15% of all the volume.
+
+26
+00:01:08,720 --> 00:01:10,663
+So this was a futures-driven drop,
+
+27
+00:01:10,803 --> 00:01:13,297
+although both markets have ticked up in the last half
+
+28
+00:01:13,437 --> 00:01:14,062
+hour.
+
+29
+00:01:15,383 --> 00:01:17,077
+Next up, open interest.
+
+30
+00:01:17,397 --> 00:01:20,105
+That's the total value of all the open leveraged
+
+31
+00:01:20,245 --> 00:01:21,132
+positions.
+
+32
+00:01:21,452 --> 00:01:23,706
+It's down almost 3% over the day,
+
+33
+00:01:23,846 --> 00:01:25,699
+and most of that came in one hour,
+
+34
+00:01:25,839 --> 00:01:27,476
+right as the price dropped.
+
+35
+00:01:27,796 --> 00:01:30,824
+Price down and open interest down usually means longs
+
+36
+00:01:30,964 --> 00:01:32,032
+closing out.
+
+37
+00:01:32,352 --> 00:01:34,768
+Since then it's been flat for about twelve hours.
+
+38
+00:01:35,088 --> 00:01:36,953
+And funding is still positive,
+
+39
+00:01:37,093 --> 00:01:39,119
+in the upper half of its weekly range,
+
+40
+00:01:39,259 --> 00:01:41,251
+so longs are still paying to stay in.
+
+41
+00:01:42,583 --> 00:01:44,368
+What about the big institutions?
+
+42
+00:01:44,688 --> 00:01:48,491
+US spot Bitcoin ETFs had five reported sessions in a row
+
+43
+00:01:48,631 --> 00:01:49,634
+of outflows,
+
+44
+00:01:49,774 --> 00:01:52,082
+that's more than $1.8 billion,
+
+45
+00:01:52,222 --> 00:01:53,949
+with BlackRock leading the selling.
+
+46
+00:01:54,269 --> 00:01:56,943
+The flows for Wednesday and Friday's half-day session
+
+47
+00:01:57,083 --> 00:01:58,143
+aren't in yet.
+
+48
+00:01:58,463 --> 00:02:02,064
+And it's the weekend now, so ETFs are closed until Monday,
+
+49
+00:02:02,204 --> 00:02:04,502
+and weekend liquidity tends to be thinner.
+
+50
+00:02:05,817 --> 00:02:07,564
+So, here's how the levels look.
+
+51
+00:02:07,884 --> 00:02:09,713
+The big one is $60,000.
+
+52
+00:02:10,033 --> 00:02:13,298
+If Bitcoin can close an hour above $60,200,
+
+53
+00:02:13,438 --> 00:02:16,956
+that clears the overnight cap and brings $61,000 and then
+
+54
+00:02:17,096 --> 00:02:19,603
+$61,400 into view.
+
+55
+00:02:19,923 --> 00:02:21,697
+That's where it was before the drop.
+
+56
+00:02:22,017 --> 00:02:25,383
+On the flip side, if it loses $59,100,
+
+57
+00:02:25,523 --> 00:02:27,018
+the lowest close of the day,
+
+58
+00:02:27,158 --> 00:02:32,106
+then the 24-hour low near $58,650 comes back into play.
+
+59
+00:02:33,417 --> 00:02:35,289
+So, two things to keep an eye on.
+
+60
+00:02:35,609 --> 00:02:38,662
+Can we get an hourly close above $60,200,
+
+61
+00:02:38,802 --> 00:02:41,255
+and does spot buying back up the latest bounce?
+
+62
+00:02:41,575 --> 00:02:44,176
+Let me know in the comments which way you think it breaks.
+
+63
+00:02:44,496 --> 00:02:46,832
+As always, this isn't financial advice.
+
+64
+00:02:47,152 --> 00:02:49,789
+Thanks so much for watching, and I'll see you tomorrow!
